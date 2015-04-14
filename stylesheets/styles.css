@@ -35,9 +35,14 @@ h3, h4, h5, h6 {
   font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro",Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic",sans-serif;
 }
 
+.jp h2 {
+  text-align: center;
+}
+
 .jp p {
   font-weight: 100px;
   color: gray;
+  margin: 0 0 5px;
 }
 a {
   color:#39c;
