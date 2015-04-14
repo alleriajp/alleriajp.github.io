@@ -39,6 +39,10 @@ h3, h4, h5, h6 {
   text-align: center;
 }
 
+.jp p+h3 {
+  margin-top: 25px;
+}
+
 .jp p {
   font-weight: 100px;
   color: gray;
